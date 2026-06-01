@@ -33,3 +33,6 @@ Follow these steps to download the repository and spin up the dashboard locally:
 1. **Clone the repository:**
 ```bash
    git clone [https://github.com/Soniya90tomar/nassau-candy-profitability-analysis.git](https://github.com/Soniya90tomar/nassau-candy-profitability-analysis.git)
+2. **Navigate into the project directory:**
+```bash
+   cd nassau-candy-profitability-analysis
