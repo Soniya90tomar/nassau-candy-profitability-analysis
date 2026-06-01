@@ -18,7 +18,7 @@ st.markdown("This interactive web application provides strategic diagnostics int
 # 2. DATA LOADING & CLEANING LAYER (WITH CACHING)
 @st.cache_data
 def load_and_clean_data():
-    df = pd.read_csv("Nassau_Candy_Distributor.csv")
+    df = pd.read_csv("Nassau Candy Distributor.csv")
     
     # Cleaning rows with invalid sales/units
     df = df[df['Sales'] > 0]
