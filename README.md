@@ -37,4 +37,15 @@ Follow these steps to download the repository and spin up the dashboard locally:
 2. **Navigate into the project directory:**
 ```bash
    cd nassau-candy-profitability-analysis
+```
+3. **Install the required dependencies:**
+```bash
+   pip install -r requirements.txt
+```
+4. **Run the local Streamlit dashboard application:**
+```bash
+   streamlit run dashboard.py
+```
+👩‍💻 Author
+Soniya Tomar - Bachelor of Technology in Computer Science and Engineering, Amity University Madhya Pradesh
 
